@@ -1,0 +1,4 @@
+JOB_NAME	mn_nosmoothing
+JOB_DIR	source/analysis/mn_model_estimation/mn_nosmoothing
+OUTPUT_DIR	output/analysis/mn_model_estimation/mn_nosmoothing
+RESULTS_DIR	results/analysis/mn_model_estimation/mn_nosmoothing
